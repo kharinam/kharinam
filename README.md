@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kharinam
+- 👋 Hi, I’m @kharinam living in Indonesia
 - 👀 I’m interested in database, data management, data visualization, and gaining data insights
 - 🌱 I’m currently learning data fundamentals for business analytics
