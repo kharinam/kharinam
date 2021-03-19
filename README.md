@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kharinam
+- 👀 I’m interested in database, data management, data visualization, and gaining data insights
+- 🌱 I’m currently learning data fundamentals for business analytics
